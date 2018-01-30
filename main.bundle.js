@@ -63,7 +63,6 @@ var AppComponent = /** @class */ (function () {
             video: false,
             width: 300,
             height: 300,
-            cameraType: 'back'
         };
     }
     AppComponent.prototype.onCamSuccess = function (e) {
